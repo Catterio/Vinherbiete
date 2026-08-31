@@ -9,7 +9,7 @@ Vinherbiete is a grotesque monospace sans-serif pixel font, created using [FontS
 
 ## License
 
-Vinherbiete is licensed under OFL, see details [here](https://github.com/Catterio/Vinherbiete?tab=OFL-1.1-1-ov-file).
+Vinherbiete is licensed under OFL-1.1, see details [here](https://github.com/Catterio/Vinherbiete?tab=OFL-1.1-1-ov-file).
 
 
 ## Download
