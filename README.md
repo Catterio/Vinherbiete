@@ -7,7 +7,12 @@
 Vinherbiete is a grotesque monospace sans-serif pixel font, created using FontStruct.
 
 
-## Language support:
+## Download
+
+[Check the latest release.](https://github.com/Catterio/Vinherbiete/releases/latest)
+
+
+## Language support
 
 The font supports 107 languages, as detected by [FontDrop's language report](https://fontdrop.info/#/languages?darkmode=true).
 
