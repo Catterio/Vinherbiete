@@ -1,5 +1,3 @@
-# Vinherbiete
-
 ![IMG1](Vinherbiete1.png)
 ![IMG2](Vinherbiete2.png)
 ![IMG3](Vinherbiete3.png)
